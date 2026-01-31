@@ -1,16 +1,31 @@
-# Hey!
-
-Recently worked on the backend of [Medisight](https://github.com/harishuthaya/medisight) written in Python ✨ for [HackWestern X](https://www.hackwestern.com/). 
-Currently a software engineering student @ Western University.
-Most recent personal project: [Martialis](https://github.com/aura0003/Martialis) 🤏. A cloud hosted ML ([pyTorch](https://github.com/sanghyun-son/EDSR-PyTorch) [EDSR](https://keras.io/examples/vision/edsr/)) OCR application.
-> As a former GFX/UI/UX designer, I'll always have a soft spot for design. My work can be found @ [Coming Soon]
-
-> Find me on discord <a rel="me" href="https:/discord.id">@aura0003</a>.
----
-
 <div align="center">
+  <pre align="left">
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+    
+ ~> ls stack
+ Kernel:         Darwin 24.6.0
+ Low Level:      Rust, C++, C
+ Pkgs:           Homebrew (forever and always)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pooplegend&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=pooplegend&redirect=true)
-
+ ~> whois mmiraly
+ User Handle:    mmiraly
+ Location:       Toronto, ON
+ Role:           Software Engineering Student
+ Status:         Active (build, break, fix, repeat)
+ Current Focus:
+   - Maintaining and developing [CAWA](https://github.com/mmiraly/CAWA)
+   - Low-level OS development
+   - Snowboarding (forever trying to toe edge)
+     
+  </pre>
 </div>
-
