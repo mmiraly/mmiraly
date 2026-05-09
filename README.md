@@ -20,7 +20,7 @@
  <b> ~> whois mmiraly </b>
  User Handle:    mmiraly
  Location:       Toronto, ON
- Role:           Software Engineering Student
+ Role:           QTS Software Engineer @ RBC Capital Markets
  Status:         Active (build, break, fix, repeat)
  Current Focus:
  - Maintaining and developing <a href="https://github.com/mmiraly/CAWA">CAWA</a>
