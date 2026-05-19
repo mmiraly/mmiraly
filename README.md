@@ -15,7 +15,7 @@
  <b> ~> ls stack </b>
  Kernel:         Darwin 24.6.0
  Low Level:      Rust, C++, C
- Pkgs:           Homebrew (forever and always)
+ Pkgs:           Homebrew
 &nbsp;
  <b> ~> whois mmiraly </b>
  User Handle:    mmiraly
