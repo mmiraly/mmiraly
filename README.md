@@ -24,7 +24,7 @@
  Status:         Alive
  Current Focus:
  - Maintaining and developing <a href="https://github.com/mmiraly/CAWA">CAWA</a> & <a href="https://github.com/mmiraly/nukeD">nukeD</a>
- - ~~Low-level OS development~~ Making drones that drop things very militarily
+ - Making drones that drop things very militarily
  - Snowboarding (I figured out how to toe edge)
      
   </pre>
