@@ -20,7 +20,7 @@
  <b> ~> whois mmiraly </b>
  User Handle:    mmiraly
  Location:       Toronto, ON
- Role:           QTS Software Engineer @ RBC Capital Markets
+ Role:           Software Engineer @ Shopify
  Status:         Alive
  Current Focus:
  - Maintaining and developing <a href="https://github.com/mmiraly/CAWA">CAWA</a> & <a href="https://github.com/mmiraly/nukeD">nukeD</a>
